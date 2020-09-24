@@ -3,7 +3,7 @@ import 'package:contacts/ios/ios.app.dart';
 import 'dart:io';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() {  
   if(Platform.isIOS){
     runApp(IOSApp());
   }

@@ -26,7 +26,7 @@ class SplashView extends StatelessWidget {
               fontSize: 24,
               color: Theme.of(context).accentColor,
             ),
-          )
+          ),
         ],
       ),
     );
